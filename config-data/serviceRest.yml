@@ -3,4 +3,4 @@ port: 8099
 
 	spring:
 	  application:
-	    name: springRESTclemen
+	    name: serviceRest
