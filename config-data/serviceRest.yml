@@ -1,6 +1,6 @@
 server:
-port: 8099
+	port: 8099
 
-	spring:
-	  application:
-	    name: serviceRest
+spring:
+	application:
+		name: serviceRest
