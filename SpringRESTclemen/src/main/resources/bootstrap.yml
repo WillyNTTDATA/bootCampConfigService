@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: springRestClement
+  cloud:
+    config:
+    # el puerto el mismo del configserver
+      uri: http://localhost:8096
+  boot:
+    admin:
+      client:   
+      #mismo puerto que el actuator
+        url: http://localhost:8046
+     
+    
+   
+ 
